@@ -1,8 +1,8 @@
-# astrosite
+# Personal Website
 
-Astrosite is a basic template to create Astronomy-related Websites in MkDocs with Material as a theme. This is a sample site template for the Astronomy Club CCA. You can use this for Theory and more stuff.
 
-See a feature listing at http://astrosite.nushastro.ml/ and get started at http://astrosite.nushastro.ml/Getting%20Started/!
+
+My personal website
 
 ## Getting Started
 
@@ -11,6 +11,7 @@ See a feature listing at http://astrosite.nushastro.ml/ and get started at http:
 How do you use `astrosite`? Here's a guide for you.
 
 ### Step 1: Create a Repo
+
 Create a repo by going to  the [`astrosite` repo](https://github.com/NUSH-Astro/astrosite) and clicking "Use this template" as shown below:
 
 ![](docs/img/template1.png)
@@ -20,6 +21,7 @@ This will lead you to another page to generate a repository from this template a
 ![](docs/img/template2.png)
 
 ### Step 2: Deal with the Repo
+
 This will lead you to the newly created GitHub Repo, in this case [https://github.com/NUSH-Astro/cosmology](https://github.com/NUSH-Astro/cosmology), and you can now click the "Code" button and copy the Repo address as shown. This will be useful for downloading the repo and then administrating it.
 
 ![](docs/img/copygithub.png)
@@ -29,6 +31,7 @@ Next, go to your terminal (for the purposes of this tutorial, I am using Git Bas
 ![](docs/img/gitbash.png)
 
 ### Step 3: Set-Up and Installation
+
 This installation expects that you already have Python and Git Installed. If you don't, do install them from relevant sources.
 
 Next, the setup file will install `mkdocs` and `mkdocs-material` from `pip` , allowing you to now convert these markdown files to HTML. Following this, it will open a `Nano` tab to input the name of the site. Make sure to convert `astrosite` to your preferred domain choice (domain choices have been stated, but can be added by contacting Prannaya), in this case `cosmo`. Press `Ctrl-O`, `Enter` and `Ctrl-X` when you are done.
